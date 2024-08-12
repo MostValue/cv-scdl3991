@@ -1,0 +1,5 @@
+"0","devtools::install_github(""zhengli09/BASS"")
+"
+"2","Error in loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) : 
+  namespace ‘fastmap’ 1.1.1 is being loaded, but >= 1.2.0 is required
+"
