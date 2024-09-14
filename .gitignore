@@ -50,7 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+.vscode/
 # Translations
 *.mo
 *.pot
@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 .Rproj.user
 /data
+/outputs
